@@ -3,18 +3,6 @@
 Created on Thu Nov 22 01:00:19 2018
 @author: user
 
-#first time
-cd ~/Downloads/ && git clone https://github.com/ysBach/ysvisutilpy && cd ysvisutilpy && git pull && pip install -e . && cd ..
-cd ~/Downloads/ && git clone https://github.com/ysBach/ysfitsutilpy && cd ysfitsutilpy && git pull && pip install -e . && cd ..
-cd ~/Downloads/ && git clone https://github.com/ysBach/ysphotutilpy && cd ysphotutilpy && git pull && pip install -e . && cd ..
-cd ~/Downloads/ && git clone https://github.com/ysBach/SNUO1Mpy && cd SNUO1Mpy && git pull && pip install -e . && cd ..
-
-# second time...
-cd ~/Downloads/ysvisutilpy && git pull && pip install -e . 
-cd ~/Downloads/ysfitsutilpy && git pull && pip install -e . 
-cd ~/Downloads/ysphouutilpy && git pull && pip install -e . 
-cd ~/Downloads/SNUO1Mpy && git pull && pip install -e . 
-
 """
 #%%
 from glob import glob
@@ -49,7 +37,7 @@ reduce_dir = "reduced_ys"
 
 BASEDIR = "../RnE_2022/KLEOPATRA_Light_-_2022-11-04_-_RiLA600_STX-16803_-_2bin/"
 #BASEDIR = "../RnE_2022/"
-#BASEDIR = "../CCD_obs_raw/"
+#BASEDIR = "../A3_CCD_obs_raw/"
 #%%
 # BASEDIRs = sorted(_Python_utilities.getFullnameListOfsubDir(BASEDIR))
 # print ("BASEDIRs1: {}".format(BASEDIRs))

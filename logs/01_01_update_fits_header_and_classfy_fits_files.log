@@ -1,0 +1,708 @@
+[2025-02-12 14:22:59] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-21b_LIGHT_-_2025-02-10_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-12 14:23:11] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-21b_LIGHT_-_2025-02-10_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-12 14:23:15] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-21b_LIGHT_-_2025-02-11_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-12 14:23:17] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-21b_LIGHT_-_2025-02-11_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-12 14:23:28] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-30b_LIGHT_-_2025-02-09_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-12 14:23:45] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-30b_LIGHT_-_2025-02-10_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-12 14:23:45] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-36b_LIGHT_-_2025-02-09_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-12 14:23:52] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-36b_LIGHT_-_2025-02-10_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-12 14:24:15] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-36b_LIGHT_-_2025-02-10_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-12 14:24:15] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 1_LIGHT_-_2025-02-09_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-12 14:24:16] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 2_LIGHT_-_2025-02-09_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-12 14:24:20] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-113b_LIGHT_-_2025-02-11_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-12 14:24:41] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-113b_LIGHT_-_2025-02-11_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-12 14:24:44] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-65b_LIGHT_-_2025-02-09_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-12 14:25:00] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-65b_LIGHT_-_2025-02-09_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-12 14:25:02] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/XO-3b_LIGHT_-_2025-01-10_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-12 14:25:02] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/XO-5b_LIGHT_-_2025-01-20_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-12 14:25:08] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-21b_LIGHT_-_2025-02-10_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-12 14:25:15] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-21b_LIGHT_-_2025-02-10_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-12 14:25:16] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-21b_LIGHT_-_2025-02-11_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-12 14:25:18] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-21b_LIGHT_-_2025-02-11_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-12 14:25:22] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-30b_LIGHT_-_2025-02-09_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-12 14:25:28] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-30b_LIGHT_-_2025-02-10_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-12 14:25:28] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-36b_LIGHT_-_2025-02-09_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-12 14:25:30] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-36b_LIGHT_-_2025-02-10_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-12 14:25:34] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-36b_LIGHT_-_2025-02-10_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-12 14:25:34] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 1_LIGHT_-_2025-02-09_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-12 14:25:34] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 2_LIGHT_-_2025-02-09_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-12 14:25:35] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-113b_LIGHT_-_2025-02-11_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-12 14:25:39] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-113b_LIGHT_-_2025-02-11_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-12 14:25:40] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-65b_LIGHT_-_2025-02-09_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-12 14:25:43] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-65b_LIGHT_-_2025-02-09_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-12 14:25:44] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/XO-3b_LIGHT_-_2025-01-10_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-12 14:25:44] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/XO-5b_LIGHT_-_2025-01-20_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-15 19:48:36] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/BiasDark(3bin)_BIAS_-_2025-02-11_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-15 19:48:51] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/BiasDark(3bin)_DARK_-_2025-02-11_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-15 19:49:27] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/BiasDark(3bin)_DARK_-_2025-02-12_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-15 19:49:32] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Coma Star Cluster_LIGHT_-_2025-02-14_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-15 19:49:38] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Coma Star Cluster_LIGHT_-_2025-02-14_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-15 19:49:46] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2259_LIGHT_-_2025-02-13_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-15 19:49:53] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2259_LIGHT_-_2025-02-13_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-15 19:49:57] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2395_LIGHT_-_2025-02-13_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-15 19:50:03] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2395_LIGHT_-_2025-02-13_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-15 19:50:06] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2395_LIGHT_-_2025-02-14_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-15 19:50:08] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2395_LIGHT_-_2025-02-14_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-15 19:50:14] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2664_LIGHT_-_2025-02-14_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-15 19:50:20] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2664_LIGHT_-_2025-02-14_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-15 19:50:22] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/XO-3b_LIGHT_-_2025-01-10_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-15 19:50:23] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/BiasDark(3bin)_BIAS_-_2025-02-11_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-15 19:50:26] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/BiasDark(3bin)_DARK_-_2025-02-11_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-15 19:50:32] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/BiasDark(3bin)_DARK_-_2025-02-12_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-15 19:50:33] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Coma Star Cluster_LIGHT_-_2025-02-14_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-15 19:50:35] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Coma Star Cluster_LIGHT_-_2025-02-14_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-15 19:50:37] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2259_LIGHT_-_2025-02-13_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-15 19:50:40] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2259_LIGHT_-_2025-02-13_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-15 19:50:41] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2395_LIGHT_-_2025-02-13_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-15 19:50:43] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2395_LIGHT_-_2025-02-13_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-15 19:50:44] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2395_LIGHT_-_2025-02-14_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-15 19:50:44] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2395_LIGHT_-_2025-02-14_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-15 19:50:46] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2664_LIGHT_-_2025-02-14_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-15 19:50:48] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2664_LIGHT_-_2025-02-14_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-15 19:50:49] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/XO-3b_LIGHT_-_2025-01-10_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:36:28] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/BiasDark(3bin)_BIAS_-_2025-02-11_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:36:42] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/BiasDark(3bin)_DARK_-_2025-02-11_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:37:39] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/BiasDark(3bin)_DARK_-_2025-02-12_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:37:43] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/BiasDark_BIAS_-_2025-02-15_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-18 06:38:12] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/BiasDark_DARK_-_2025-02-15_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-18 06:38:28] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/BiasDark_DARK_-_2025-02-16_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-18 06:38:35] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Coma Star Cluster_LIGHT_-_2025-02-14_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:38:41] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Coma Star Cluster_LIGHT_-_2025-02-14_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:38:54] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-21b_LIGHT_-_2025-02-10_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:39:05] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-21b_LIGHT_-_2025-02-10_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:39:08] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-21b_LIGHT_-_2025-02-11_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:39:10] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-21b_LIGHT_-_2025-02-11_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:39:20] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-30b_LIGHT_-_2025-02-09_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:39:34] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-30b_LIGHT_-_2025-02-10_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:39:34] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-36b_LIGHT_-_2025-02-09_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:39:40] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-36b_LIGHT_-_2025-02-10_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:39:55] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-36b_LIGHT_-_2025-02-10_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:39:56] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 1_LIGHT_-_2025-02-09_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-18 06:39:57] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 2_LIGHT_-_2025-02-09_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-18 06:39:57] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 1_LIGHT_-_2025-02-17_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-18 06:39:57] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 1_LIGHT_-_2025-02-18_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-18 06:39:58] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 2_LIGHT_-_2025-02-18_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-18 06:40:05] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2259_LIGHT_-_2025-02-13_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:40:12] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2259_LIGHT_-_2025-02-13_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:40:16] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2395_LIGHT_-_2025-02-13_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:40:24] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2395_LIGHT_-_2025-02-13_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:40:29] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2395_LIGHT_-_2025-02-14_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:40:32] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2395_LIGHT_-_2025-02-14_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:40:41] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2664_LIGHT_-_2025-02-14_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:40:52] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2664_LIGHT_-_2025-02-14_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:40:57] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-113b_LIGHT_-_2025-02-11_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:41:19] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-113b_LIGHT_-_2025-02-11_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:41:23] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-65b_LIGHT_-_2025-02-09_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:41:39] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-65b_LIGHT_-_2025-02-09_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:41:41] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-66b_LIGHT_-_2025-02-17_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:41:44] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-66b_LIGHT_-_2025-02-17_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:42:02] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-66b_LIGHT_-_2025-02-18_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:42:32] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-66b_LIGHT_-_2025-02-18_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:42:52] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/XO-2Nb_LIGHT_-_2025-02-17_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:43:20] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/XO-2Nb_LIGHT_-_2025-02-17_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:43:22] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/BiasDark(3bin)_BIAS_-_2025-02-11_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:43:26] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/BiasDark(3bin)_DARK_-_2025-02-11_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:43:37] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/BiasDark(3bin)_DARK_-_2025-02-12_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:43:39] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/BiasDark_BIAS_-_2025-02-15_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-18 06:43:53] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/BiasDark_DARK_-_2025-02-15_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-18 06:44:01] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/BiasDark_DARK_-_2025-02-16_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-18 06:44:05] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Coma Star Cluster_LIGHT_-_2025-02-14_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:44:09] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Coma Star Cluster_LIGHT_-_2025-02-14_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:44:15] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-21b_LIGHT_-_2025-02-10_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:44:23] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-21b_LIGHT_-_2025-02-10_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:44:25] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-21b_LIGHT_-_2025-02-11_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:44:26] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-21b_LIGHT_-_2025-02-11_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:44:31] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-30b_LIGHT_-_2025-02-09_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:44:38] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-30b_LIGHT_-_2025-02-10_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:44:38] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-36b_LIGHT_-_2025-02-09_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:44:41] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-36b_LIGHT_-_2025-02-10_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:44:49] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-36b_LIGHT_-_2025-02-10_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:44:49] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 1_LIGHT_-_2025-02-09_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-18 06:44:50] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 2_LIGHT_-_2025-02-09_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-18 06:44:50] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 1_LIGHT_-_2025-02-17_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-18 06:44:50] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 1_LIGHT_-_2025-02-18_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-18 06:44:51] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 2_LIGHT_-_2025-02-18_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-18 06:44:54] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2259_LIGHT_-_2025-02-13_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:44:57] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2259_LIGHT_-_2025-02-13_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:44:58] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2395_LIGHT_-_2025-02-13_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:45:01] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2395_LIGHT_-_2025-02-13_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:45:02] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2395_LIGHT_-_2025-02-14_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:45:03] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2395_LIGHT_-_2025-02-14_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:45:06] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2664_LIGHT_-_2025-02-14_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:45:09] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2664_LIGHT_-_2025-02-14_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:45:11] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-113b_LIGHT_-_2025-02-11_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:45:18] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-113b_LIGHT_-_2025-02-11_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:45:19] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-65b_LIGHT_-_2025-02-09_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:45:27] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-65b_LIGHT_-_2025-02-09_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:45:28] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-66b_LIGHT_-_2025-02-17_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:45:29] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-66b_LIGHT_-_2025-02-17_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:45:36] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-66b_LIGHT_-_2025-02-18_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:45:46] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-66b_LIGHT_-_2025-02-18_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-18 06:45:55] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/XO-2Nb_LIGHT_-_2025-02-17_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-18 06:46:10] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/XO-2Nb_LIGHT_-_2025-02-17_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-19 23:03:15] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-22b_LIGHT_-_2025-02-18_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-19 23:03:15] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-22b_LIGHT_-_2025-02-19_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-19 23:03:15] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 1_LIGHT_-_2025-02-19_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-19 23:03:15] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-22b_LIGHT_-_2025-02-18_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-19 23:03:15] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-22b_LIGHT_-_2025-02-19_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-19 23:03:15] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 1_LIGHT_-_2025-02-19_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-19 23:03:26] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-22b_LIGHT_-_2025-02-18_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-19 23:03:26] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-22b_LIGHT_-_2025-02-19_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-19 23:03:26] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 1_LIGHT_-_2025-02-19_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-19 23:03:26] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-22b_LIGHT_-_2025-02-18_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-19 23:03:26] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-22b_LIGHT_-_2025-02-19_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-19 23:03:26] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 1_LIGHT_-_2025-02-19_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-19 23:06:08] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-22b_LIGHT_-_2025-02-18_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-19 23:06:08] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-22b_LIGHT_-_2025-02-19_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-19 23:06:08] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 1_LIGHT_-_2025-02-19_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-19 23:06:08] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-22b_LIGHT_-_2025-02-18_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-19 23:06:08] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-22b_LIGHT_-_2025-02-19_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-19 23:06:08] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 1_LIGHT_-_2025-02-19_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-19 23:07:12] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-22b_LIGHT_-_2025-02-18_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-19 23:07:15] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-22b_LIGHT_-_2025-02-19_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-19 23:07:16] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 1_LIGHT_-_2025-02-19_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-19 23:07:17] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-22b_LIGHT_-_2025-02-18_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-19 23:07:17] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-22b_LIGHT_-_2025-02-19_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-19 23:07:17] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 1_LIGHT_-_2025-02-19_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-20 00:13:07] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M13_LIGHT_-_2024-06-13_-_WORC300-x80_ASI6200MMPro_-_1bin
+[2025-02-20 00:13:09] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M27_LIGHT_-_2024-06-13_-_WORC300-x80_ASI6200MMPro_-_1bin
+[2025-02-20 00:13:09] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M57_LIGHT_-_2024-06-13_-_WORC300-x80_ASI6200MMPro_-_1bin
+[2025-02-20 00:13:09] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC869-884_LIGHT_-_2024-12-22_-_WORC300-x80_ASI6200MMPro_-_1bin
+[2025-02-20 00:13:10] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M13_LIGHT_-_2024-06-13_-_WORC300-x80_ASI6200MMPro_-_1bin
+[2025-02-20 00:13:10] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M27_LIGHT_-_2024-06-13_-_WORC300-x80_ASI6200MMPro_-_1bin
+[2025-02-20 00:13:10] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M57_LIGHT_-_2024-06-13_-_WORC300-x80_ASI6200MMPro_-_1bin
+[2025-02-20 00:13:10] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC869-884_LIGHT_-_2024-12-22_-_WORC300-x80_ASI6200MMPro_-_1bin
+[2025-02-22 08:03:13] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-20b_LIGHT_-_2025-02-21_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 08:03:24] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-20b_LIGHT_-_2025-02-21_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-22 08:03:25] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-20b_LIGHT_-_2025-02-22_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 08:03:27] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 1_LIGHT_-_2025-02-20_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 08:03:27] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 1_LIGHT_-_2025-02-21_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 08:03:29] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 2_LIGHT_-_2025-02-20_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 08:03:30] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 2_LIGHT_-_2025-02-21_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 08:03:30] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/KPS-1b_LIGHT_-_2025-02-21_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-22 08:03:37] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/KPS-1b_LIGHT_-_2025-02-22_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 08:03:42] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/KPS-1b_LIGHT_-_2025-02-22_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-22 08:03:43] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 1_LIGHT_-_2025-02-21_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 08:03:43] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 1_LIGHT_-_2025-02-22_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 08:03:43] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 2_LIGHT_-_2025-02-22_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 08:03:47] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-68b_LIGHT_-_2025-02-19_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 08:03:58] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Xo-1b_LIGHT_-_2025-02-20_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 08:04:03] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Xo-4b_LIGHT_-_2025-02-20_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 08:04:11] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Xo-4b_LIGHT_-_2025-02-20_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-22 08:04:20] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Xo-4b_LIGHT_-_2025-02-21_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 08:04:40] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Xo-4b_LIGHT_-_2025-02-21_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-22 08:04:43] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-20b_LIGHT_-_2025-02-21_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 08:04:47] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-20b_LIGHT_-_2025-02-21_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-22 08:04:47] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-20b_LIGHT_-_2025-02-22_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 08:04:47] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 1_LIGHT_-_2025-02-20_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 08:04:48] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 1_LIGHT_-_2025-02-21_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 08:04:48] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 2_LIGHT_-_2025-02-20_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 08:04:48] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 2_LIGHT_-_2025-02-21_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 08:04:48] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/KPS-1b_LIGHT_-_2025-02-21_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-22 08:04:53] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/KPS-1b_LIGHT_-_2025-02-22_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 08:04:57] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/KPS-1b_LIGHT_-_2025-02-22_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-22 08:04:57] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 1_LIGHT_-_2025-02-21_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 08:04:58] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 1_LIGHT_-_2025-02-22_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 08:04:58] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 2_LIGHT_-_2025-02-22_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 08:05:02] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-68b_LIGHT_-_2025-02-19_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 08:05:09] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Xo-1b_LIGHT_-_2025-02-20_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 08:05:12] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Xo-4b_LIGHT_-_2025-02-20_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 08:05:16] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Xo-4b_LIGHT_-_2025-02-20_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-22 08:05:22] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Xo-4b_LIGHT_-_2025-02-21_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 08:05:35] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Xo-4b_LIGHT_-_2025-02-21_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-22 15:36:00] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/BiasDark_BIAS_-_2025-02-15_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 15:36:23] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/BiasDark_DARK_-_2025-02-15_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 15:36:37] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/BiasDark_DARK_-_2025-02-16_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 15:36:47] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-20b_LIGHT_-_2025-02-21_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-22 15:37:02] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-22b_LIGHT_-_2025-02-18_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 15:37:07] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-22b_LIGHT_-_2025-02-19_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 15:37:08] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 1_LIGHT_-_2025-02-20_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 15:37:09] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 1_LIGHT_-_2025-02-21_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 15:37:10] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 2_LIGHT_-_2025-02-20_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 15:37:11] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 2_LIGHT_-_2025-02-21_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 15:37:12] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/KPS-1b_LIGHT_-_2025-02-21_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-22 15:37:21] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/KPS-1b_LIGHT_-_2025-02-22_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-22 15:37:21] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 1_LIGHT_-_2025-02-17_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 15:37:22] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 1_LIGHT_-_2025-02-18_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 15:37:23] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 1_LIGHT_-_2025-02-19_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 15:37:23] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 1_LIGHT_-_2025-02-21_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 15:37:24] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 1_LIGHT_-_2025-02-22_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 15:37:25] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 2_LIGHT_-_2025-02-18_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 15:37:26] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 2_LIGHT_-_2025-02-22_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 15:37:27] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-66b_LIGHT_-_2025-02-17_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 15:37:28] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-66b_LIGHT_-_2025-02-17_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-22 15:37:39] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-66b_LIGHT_-_2025-02-18_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 15:37:55] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-66b_LIGHT_-_2025-02-18_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-22 15:38:03] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-68b_LIGHT_-_2025-02-19_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 15:38:18] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/XO-2Nb_LIGHT_-_2025-02-17_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 15:38:38] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/XO-2Nb_LIGHT_-_2025-02-17_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-22 15:38:40] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/XO-3b_LIGHT_-_2025-01-10_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 15:38:58] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Xo-1b_LIGHT_-_2025-02-20_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 15:39:08] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Xo-4b_LIGHT_-_2025-02-20_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 15:39:22] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Xo-4b_LIGHT_-_2025-02-20_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-22 15:39:37] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Xo-4b_LIGHT_-_2025-02-21_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 15:39:58] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Xo-4b_LIGHT_-_2025-02-21_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-22 15:39:59] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/BiasDark_BIAS_-_2025-02-15_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 15:40:05] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/BiasDark_DARK_-_2025-02-15_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 15:40:09] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/BiasDark_DARK_-_2025-02-16_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 15:40:12] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-20b_LIGHT_-_2025-02-21_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-22 15:40:17] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-22b_LIGHT_-_2025-02-18_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 15:40:19] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-22b_LIGHT_-_2025-02-19_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 15:40:19] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 1_LIGHT_-_2025-02-20_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 15:40:20] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 1_LIGHT_-_2025-02-21_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 15:40:20] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 2_LIGHT_-_2025-02-20_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 15:40:20] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 2_LIGHT_-_2025-02-21_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 15:40:21] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/KPS-1b_LIGHT_-_2025-02-21_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-22 15:40:24] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/KPS-1b_LIGHT_-_2025-02-22_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-22 15:40:24] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 1_LIGHT_-_2025-02-17_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 15:40:24] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 1_LIGHT_-_2025-02-18_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 15:40:24] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 1_LIGHT_-_2025-02-19_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 15:40:24] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 1_LIGHT_-_2025-02-21_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 15:40:25] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 1_LIGHT_-_2025-02-22_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 15:40:25] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 2_LIGHT_-_2025-02-18_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 15:40:25] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 2_LIGHT_-_2025-02-22_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 15:40:26] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-66b_LIGHT_-_2025-02-17_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 15:40:26] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-66b_LIGHT_-_2025-02-17_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-22 15:40:30] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-66b_LIGHT_-_2025-02-18_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 15:40:34] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-66b_LIGHT_-_2025-02-18_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-22 15:40:37] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-68b_LIGHT_-_2025-02-19_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 15:40:41] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/XO-2Nb_LIGHT_-_2025-02-17_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 15:40:48] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/XO-2Nb_LIGHT_-_2025-02-17_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-22 15:40:48] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/XO-3b_LIGHT_-_2025-01-10_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 15:40:55] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Xo-1b_LIGHT_-_2025-02-20_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 15:40:58] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Xo-4b_LIGHT_-_2025-02-20_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 15:41:02] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Xo-4b_LIGHT_-_2025-02-20_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-22 15:41:07] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Xo-4b_LIGHT_-_2025-02-21_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 15:41:12] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Xo-4b_LIGHT_-_2025-02-21_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-22 21:17:47] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/FlatWizard_FLAT_-_2025-02-22_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 21:17:47] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/FlatWizard_FLAT_-_2025-02-22_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 21:17:47] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/FlatWizard_FLAT_-_2025-02-22_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-22 21:17:48] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/FlatWizard_FLAT_-_2025-02-22_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-22 21:17:48] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/FlatWizard_FLAT_-_2025-02-22_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-22 21:17:48] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/FlatWizard_FLAT_-_2025-02-22_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-23 12:00:02] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-13b_LIGHT_-_2025-02-22_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-23 12:00:11] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-13b_LIGHT_-_2025-02-22_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-23 12:00:13] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-13b_LIGHT_-_2025-02-23_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-23 12:00:15] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-13b_LIGHT_-_2025-02-23_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-23 12:00:16] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 1_LIGHT_-_2025-02-22_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-23 12:00:16] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 2_LIGHT_-_2025-02-22_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-23 12:00:16] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 1_LIGHT_-_2025-02-23_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-23 12:00:17] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 2_LIGHT_-_2025-02-23_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-23 12:00:22] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Qatar-6b_LIGHT_-_2025-02-23_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-23 12:00:28] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Qatar-6b_LIGHT_-_2025-02-23_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-23 12:00:31] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-13b_LIGHT_-_2025-02-22_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-23 12:00:36] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-13b_LIGHT_-_2025-02-22_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-23 12:00:38] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-13b_LIGHT_-_2025-02-23_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-23 12:00:39] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-13b_LIGHT_-_2025-02-23_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-23 12:00:40] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 1_LIGHT_-_2025-02-22_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-23 12:00:40] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 2_LIGHT_-_2025-02-22_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-23 12:00:41] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 1_LIGHT_-_2025-02-23_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-23 12:00:41] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 2_LIGHT_-_2025-02-23_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-23 12:00:44] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Qatar-6b_LIGHT_-_2025-02-23_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-23 12:00:45] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Qatar-6b_LIGHT_-_2025-02-23_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-23 16:57:23] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/FlatWizard_FLAT_-_2025-02-22_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-23 16:57:25] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/FlatWizard_FLAT_-_2025-02-22_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-23 16:57:27] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/FlatWizard_FLAT_-_2025-02-22_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-23 16:57:42] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-13b_LIGHT_-_2025-02-22_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-23 16:58:02] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-13b_LIGHT_-_2025-02-22_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-23 16:58:07] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-13b_LIGHT_-_2025-02-23_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-23 16:58:14] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-13b_LIGHT_-_2025-02-23_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-23 16:58:25] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-20b_LIGHT_-_2025-02-21_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-23 16:58:26] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-20b_LIGHT_-_2025-02-22_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-23 16:58:27] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 1_LIGHT_-_2025-02-22_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-23 16:58:28] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 2_LIGHT_-_2025-02-22_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-23 16:58:40] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/KPS-1b_LIGHT_-_2025-02-22_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-23 16:58:41] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 1_LIGHT_-_2025-02-23_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-23 16:58:42] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 2_LIGHT_-_2025-02-23_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-23 16:58:54] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Qatar-6b_LIGHT_-_2025-02-23_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-23 16:59:10] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Qatar-6b_LIGHT_-_2025-02-23_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-23 16:59:12] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/XO-3b_LIGHT_-_2025-01-10_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-23 16:59:13] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/FlatWizard_FLAT_-_2025-02-22_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-23 16:59:13] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/FlatWizard_FLAT_-_2025-02-22_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-23 16:59:14] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/FlatWizard_FLAT_-_2025-02-22_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-23 16:59:19] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-13b_LIGHT_-_2025-02-22_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-23 16:59:26] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-13b_LIGHT_-_2025-02-22_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-23 16:59:27] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-13b_LIGHT_-_2025-02-23_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-23 16:59:29] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-13b_LIGHT_-_2025-02-23_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-23 16:59:32] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-20b_LIGHT_-_2025-02-21_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-23 16:59:32] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/HAT-P-20b_LIGHT_-_2025-02-22_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-23 16:59:33] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 1_LIGHT_-_2025-02-22_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-23 16:59:33] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/IC 434 Panel 2_LIGHT_-_2025-02-22_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-23 16:59:36] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/KPS-1b_LIGHT_-_2025-02-22_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-23 16:59:37] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 1_LIGHT_-_2025-02-23_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-23 16:59:37] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M 66 Panel 2_LIGHT_-_2025-02-23_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-02-23 16:59:41] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Qatar-6b_LIGHT_-_2025-02-23_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-23 16:59:45] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/Qatar-6b_LIGHT_-_2025-02-23_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-23 16:59:46] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/XO-3b_LIGHT_-_2025-01-10_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-24 08:34:58] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/KELT-3b_LIGHT_-_2025-02-23_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-24 08:35:35] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/KELT-3b_LIGHT_-_2025-02-23_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-24 08:35:47] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/KELT-3b_LIGHT_-_2025-02-24_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-24 08:36:17] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/KELT-3b_LIGHT_-_2025-02-24_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-24 08:36:28] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2165_LIGHT_-_2025-02-24_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-24 08:36:35] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2281_LIGHT_-_2025-02-24_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-24 08:36:52] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/KELT-3b_LIGHT_-_2025-02-23_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-24 08:37:07] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/KELT-3b_LIGHT_-_2025-02-23_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-24 08:37:09] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/KELT-3b_LIGHT_-_2025-02-24_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-24 08:37:18] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/KELT-3b_LIGHT_-_2025-02-24_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-02-24 08:37:23] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2165_LIGHT_-_2025-02-24_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-02-24 08:37:26] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/NGC 2281_LIGHT_-_2025-02-24_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:11:18] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\602 Marianna_LIGHT_-_2023-11-02_-_TMB130ss_SBIG STL-11000 3 CCD Camera_-_1x1bin
+[2025-05-03 17:11:19] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\639 Latona_LIGHT_-_2023-11-02_-_TMB130ss_SBIG STL-11000 3 CCD Camera_-_1x1bin
+[2025-05-03 17:11:19] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\678 Fredegundis_LIGHT_-_2023-11-02_-_TMB130ss_SBIG STL-11000 3 CCD Camera_-_1x1bin
+[2025-05-03 17:11:20] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\FlatWizard_FLAT_-_2025-04-06_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:11:20] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\FlatWizard_FLAT_-_2025-04-29_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:11:25] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\HAT-P-12b_LIGHT_-_2025-04-15_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:11:32] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\HAT-P-12b_LIGHT_-_2025-04-15_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:11:35] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\HAT-P-12b_LIGHT_-_2025-04-16_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:11:41] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\HAT-P-12b_LIGHT_-_2025-04-16_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:11:45] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\HAT-P-3b_LIGHT_-_2025-04-06_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:11:45] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\IC 5070_LIGHT_-_2023-10-17_-_TMB130ss_SBIG STL-11000 3 CCD Camera_-_1x1bin
+[2025-05-03 17:11:45] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\IC443_Light_-_2021-12-05_-_TEC140-x75_STL-11000_-_1x1
+[2025-05-03 17:11:45] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\IC443_Light_-_2021-12-06_-_TEC140-x75_STL-11000_-_1x1
+[2025-05-03 17:11:46] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\IC443_Light_-_2021-12-07_-_TEC140-x75_STL-11000_-_1x1
+[2025-05-03 17:11:47] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\M 101_LIGHT_-_2025-04-15_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-03 17:11:48] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\M 101_LIGHT_-_2025-04-16_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-03 17:11:50] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\M 13_LIGHT_-_2025-04-22_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:11:53] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\M 13_LIGHT_-_2025-04-22_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:11:54] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\M 13_LIGHT_-_2025-04-23_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-03 17:11:54] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\M 13_LIGHT_-_2025-04-24_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-03 17:11:56] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\M 13_LIGHT_-_2025-04-25_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:11:58] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\M 13_LIGHT_-_2025-04-25_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:12:01] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\M 13_LIGHT_-_2025-04-26_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:12:03] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\M 3_LIGHT_-_2025-04-25_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:12:05] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\M 3_LIGHT_-_2025-04-25_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:12:08] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\M 3_LIGHT_-_2025-04-26_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:12:10] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\M 3_LIGHT_-_2025-04-28_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:12:13] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\M 3_LIGHT_-_2025-04-28_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:12:15] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\M 51_LIGHT_-_2025-04-15_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-03 17:12:15] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\M 57_LIGHT_-_2023-10-17_-_TMB130ss_SBIG STL-11000 3 CCD Camera_-_1x1bin
+[2025-05-03 17:12:18] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\M45_Light_-_2021-12-05_-_TEC140-x75_STL-11000_-_1x1
+[2025-05-03 17:12:20] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\NGC 2682_LIGHT_-_2025-04-29_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:12:22] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\NGC 2682_LIGHT_-_2025-04-29_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:12:23] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\NGC 4147_LIGHT_-_2025-04-06_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-03 17:12:27] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\TOI-1298b_LIGHT_-_2025-04-10_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:12:32] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\TOI-1298b_LIGHT_-_2025-04-11_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:12:35] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\TOI-1811b_LIGHT_-_2025-04-20_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:12:37] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\TOI-1811b_LIGHT_-_2025-04-20_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:12:41] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\TOI-1811b_LIGHT_-_2025-04-21_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:12:47] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\TOI-1811b_LIGHT_-_2025-04-21_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:12:47] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\TOI-2583Ab_LIGHT_-_2025-04-23_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:12:53] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\TOI-2583Ab_LIGHT_-_2025-04-24_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:12:56] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\TOI-3976Ab_LIGHT_-_2025-04-29_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:12:59] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\TOI-3976Ab_LIGHT_-_2025-04-29_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:13:03] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\TOI-3976Ab_LIGHT_-_2025-04-30_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:13:10] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\TOI-3976Ab_LIGHT_-_2025-04-30_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:13:14] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\TrES-5b_LIGHT_-_2025-04-23_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:13:21] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\TrES-5b_LIGHT_-_2025-04-23_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:13:22] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\TrES-5b_LIGHT_-_2025-04-25_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:13:27] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\TrES-5b_LIGHT_-_2025-04-26_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:13:29] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\TrES-5b_LIGHT_-_2025-04-28_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:13:32] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\TrES-5b_LIGHT_-_2025-04-29_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:13:37] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\WASP-104b_LIGHT_-_2025-04-11_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:13:38] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\WASP-38b_LIGHT_-_2025-04-26_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:13:54] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\WASP-38b_LIGHT_-_2025-04-27_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:13:55] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\WASP92b_LIGHT_-_2025-04-08_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:14:01] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\WASP92b_LIGHT_-_2025-04-09_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:14:03] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\c2021-a1-03_Light_-_2021-12-06_-_TEC140-x75_STL-11000_-_2x2
+[2025-05-03 17:14:04] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\602 Marianna_LIGHT_-_2023-11-02_-_TMB130ss_SBIG STL-11000 3 CCD Camera_-_1x1bin
+[2025-05-03 17:14:04] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\639 Latona_LIGHT_-_2023-11-02_-_TMB130ss_SBIG STL-11000 3 CCD Camera_-_1x1bin
+[2025-05-03 17:14:04] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\678 Fredegundis_LIGHT_-_2023-11-02_-_TMB130ss_SBIG STL-11000 3 CCD Camera_-_1x1bin
+[2025-05-03 17:14:04] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\BiasDark150_Bias_-_2022-04-13_-_GSON300_STF-8300M-SX_-_1x1
+[2025-05-03 17:14:04] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\BiasDark150_Bias_-_2022-04-13_-_GSON300_STF-8300M-SX_-_2x2
+[2025-05-03 17:14:04] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\BiasDark150_Bias_-_2022-04-14_-_GSON300_STF-8300M-SX_-_2x2
+[2025-05-03 17:14:04] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\BiasDark150_Dark_-_2022-04-14_-_GSON300_STF-8300M-SX_-_1x1
+[2025-05-03 17:14:05] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\FlatWizard_FLAT_-_2025-04-06_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:14:05] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\FlatWizard_FLAT_-_2025-04-29_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:14:08] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\HAT-P-12b_LIGHT_-_2025-04-15_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:14:12] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\HAT-P-12b_LIGHT_-_2025-04-15_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:14:14] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\HAT-P-12b_LIGHT_-_2025-04-16_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:14:18] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\HAT-P-12b_LIGHT_-_2025-04-16_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:14:19] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\HAT-P-3b_LIGHT_-_2025-04-06_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:14:20] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\IC 5070_LIGHT_-_2023-10-17_-_TMB130ss_SBIG STL-11000 3 CCD Camera_-_1x1bin
+[2025-05-03 17:14:20] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\IC443_Light_-_2021-12-05_-_TEC140-x75_STL-11000_-_1x1
+[2025-05-03 17:14:20] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\IC443_Light_-_2021-12-06_-_TEC140-x75_STL-11000_-_1x1
+[2025-05-03 17:14:20] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\IC443_Light_-_2021-12-07_-_TEC140-x75_STL-11000_-_1x1
+[2025-05-03 17:14:21] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\M 101_LIGHT_-_2025-04-15_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-03 17:14:22] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\M 101_LIGHT_-_2025-04-16_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-03 17:14:23] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\M 13_LIGHT_-_2025-04-22_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:14:25] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\M 13_LIGHT_-_2025-04-22_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:14:25] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\M 13_LIGHT_-_2025-04-23_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-03 17:14:25] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\M 13_LIGHT_-_2025-04-24_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-03 17:14:26] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\M 13_LIGHT_-_2025-04-25_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:14:27] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\M 13_LIGHT_-_2025-04-25_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:14:29] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\M 13_LIGHT_-_2025-04-26_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:14:30] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\M 3_LIGHT_-_2025-04-25_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:14:31] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\M 3_LIGHT_-_2025-04-25_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:14:32] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\M 3_LIGHT_-_2025-04-26_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:14:33] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\M 3_LIGHT_-_2025-04-28_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:14:34] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\M 3_LIGHT_-_2025-04-28_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:14:36] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\M 51_LIGHT_-_2025-04-15_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-03 17:14:36] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\M 57_LIGHT_-_2023-10-17_-_TMB130ss_SBIG STL-11000 3 CCD Camera_-_1x1bin
+[2025-05-03 17:14:38] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\M45_Light_-_2021-12-05_-_TEC140-x75_STL-11000_-_1x1
+[2025-05-03 17:14:39] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\NGC 2682_LIGHT_-_2025-04-29_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:14:40] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\NGC 2682_LIGHT_-_2025-04-29_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:14:41] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\NGC 4147_LIGHT_-_2025-04-06_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-03 17:14:43] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\TOI-1298b_LIGHT_-_2025-04-10_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:14:45] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\TOI-1298b_LIGHT_-_2025-04-11_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:14:47] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\TOI-1811b_LIGHT_-_2025-04-20_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:14:48] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\TOI-1811b_LIGHT_-_2025-04-20_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:14:50] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\TOI-1811b_LIGHT_-_2025-04-21_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:14:53] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\TOI-1811b_LIGHT_-_2025-04-21_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:14:53] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\TOI-2583Ab_LIGHT_-_2025-04-23_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:14:56] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\TOI-2583Ab_LIGHT_-_2025-04-24_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:14:57] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\TOI-3976Ab_LIGHT_-_2025-04-29_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:14:59] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\TOI-3976Ab_LIGHT_-_2025-04-29_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:15:02] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\TOI-3976Ab_LIGHT_-_2025-04-30_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:15:05] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\TOI-3976Ab_LIGHT_-_2025-04-30_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:15:08] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\TrES-5b_LIGHT_-_2025-04-23_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:15:11] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\TrES-5b_LIGHT_-_2025-04-23_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:15:11] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\TrES-5b_LIGHT_-_2025-04-25_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:15:14] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\TrES-5b_LIGHT_-_2025-04-26_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:15:15] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\TrES-5b_LIGHT_-_2025-04-28_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:15:17] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\TrES-5b_LIGHT_-_2025-04-29_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:15:19] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\WASP-104b_LIGHT_-_2025-04-11_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:15:20] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\WASP-38b_LIGHT_-_2025-04-26_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:15:27] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\WASP-38b_LIGHT_-_2025-04-27_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:15:28] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\WASP92b_LIGHT_-_2025-04-08_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:15:32] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\WASP92b_LIGHT_-_2025-04-09_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-03 17:15:34] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\c2021-a1-03_Light_-_2021-12-06_-_TEC140-x75_STL-11000_-_2x2
+[2025-05-03 17:22:07] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\FlatWizard_FLAT_-_2025-01-01_-_WORC300x80_ZWO ASI6200MM Pro_-_1x1bin
+[2025-05-03 17:22:07] Fits headers are updated in R:\ASTRO_data\A1_CCD_new_files\FlatWizard_FLAT_-_2025-01-01_-_WORC300x80_ZWO ASI6200MM Pro_-_2x2bin
+[2025-05-03 17:22:08] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\FlatWizard_FLAT_-_2025-01-01_-_WORC300x80_ZWO ASI6200MM Pro_-_1x1bin
+[2025-05-03 17:22:09] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\FlatWizard_FLAT_-_2025-01-01_-_WORC300x80_ZWO ASI6200MM Pro_-_2x2bin
+[2025-05-03 17:22:09] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\HAT-P-12b_LIGHT_-_2025-04-16_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:22:09] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\M 13_LIGHT_-_2025-04-22_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:22:09] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\M 3_LIGHT_-_2025-04-25_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:22:09] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\M 3_LIGHT_-_2025-04-28_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-03 17:22:09] All fits files are moved in R:\ASTRO_data\A1_CCD_new_files\TrES-5b_LIGHT_-_2025-04-29_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-18 12:23:50] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/TOI-2109b_LIGHT_-_2025-05-12_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-18 12:23:55] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/TOI-2109b_LIGHT_-_2025-05-12_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-18 12:24:00] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/TOI-2109b_LIGHT_-_2025-05-13_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-18 12:24:12] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/TOI-2109b_LIGHT_-_2025-05-13_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-18 12:24:13] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-103b_LIGHT_-_2025-05-06_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-18 12:24:22] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-103b_LIGHT_-_2025-05-07_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-18 12:24:28] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-103b_LIGHT_-_2025-05-08_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-18 12:24:29] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/TOI-2109b_LIGHT_-_2025-05-12_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-18 12:24:29] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/TOI-2109b_LIGHT_-_2025-05-12_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-18 12:24:30] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/TOI-2109b_LIGHT_-_2025-05-13_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-18 12:24:32] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/TOI-2109b_LIGHT_-_2025-05-13_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-18 12:24:32] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-103b_LIGHT_-_2025-05-06_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-18 12:24:33] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-103b_LIGHT_-_2025-05-07_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-18 12:24:34] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-103b_LIGHT_-_2025-05-08_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-18 14:39:38] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/-_FLAT_-_2025-01-01_-_RiLA600_ASI6200MMPro_-_1bin
+[2025-05-18 14:39:38] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/-_FLAT_-_2025-01-01_-_RiLA600_ASI6200MMPro_-_2bin
+[2025-05-18 14:39:42] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M45_LIGHT_-_2021-12-05_-_TEC140-x75_STL-11000_-_1bin
+[2025-05-18 14:39:55] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/XO-1b_LIGHT_-_2025-02-19_-_GSON300_STF-8300M_-_1bin
+[2025-05-18 14:39:55] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/XO-1b_LIGHT_-_2025-02-19_-_GSON300_STF-8300M_-_1bin/Bad_fits
+[2025-05-18 14:40:11] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/XO-4b_LIGHT_-_2025-02-20_-_GSON300_STF-8300M_-_1bin
+[2025-05-18 14:40:11] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/XO-4b_LIGHT_-_2025-02-20_-_GSON300_STF-8300M_-_1bin/Bad_fits
+[2025-05-18 14:40:15] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/c2021-a1-03_LIGHT_-_2021-12-05_-_TEC140-x75_STL-11000_-_2bin
+[2025-05-18 14:40:16] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/ic443_LIGHT_-_2021-12-05_-_TEC140-x75_STL-11000_-_1bin
+[2025-05-18 14:40:16] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/ic443_LIGHT_-_2021-12-07_-_TEC140-x75_STL-11000_-_1bin
+[2025-05-18 14:40:16] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/-_FLAT_-_2025-01-01_-_RiLA600_ASI6200MMPro_-_1bin
+[2025-05-18 14:40:17] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/-_FLAT_-_2025-01-01_-_RiLA600_ASI6200MMPro_-_2bin
+[2025-05-18 14:40:17] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M45_LIGHT_-_2021-12-05_-_TEC140-x75_STL-11000_-_1bin
+[2025-05-18 14:40:19] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/XO-1b_LIGHT_-_2025-02-19_-_GSON300_STF-8300M_-_1bin
+[2025-05-18 14:40:19] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/XO-1b_LIGHT_-_2025-02-19_-_GSON300_STF-8300M_-_1bin/Bad_fits
+[2025-05-18 14:40:22] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/XO-4b_LIGHT_-_2025-02-20_-_GSON300_STF-8300M_-_1bin
+[2025-05-18 14:40:22] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/XO-4b_LIGHT_-_2025-02-20_-_GSON300_STF-8300M_-_1bin/Bad_fits
+[2025-05-18 14:40:22] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/c2021-a1-03_LIGHT_-_2021-12-05_-_TEC140-x75_STL-11000_-_2bin
+[2025-05-18 14:40:22] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/ic443_LIGHT_-_2021-12-05_-_TEC140-x75_STL-11000_-_1bin
+[2025-05-18 14:40:22] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/ic443_LIGHT_-_2021-12-07_-_TEC140-x75_STL-11000_-_1bin
+[2025-05-18 14:43:42] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M45_LIGHT_-_2021-12-05_-_TEC140-x75_STL-11000M_-_1bin
+[2025-05-18 14:43:42] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/c2021-a1-03_LIGHT_-_2021-12-05_-_TEC140-x75_STL-11000M_-_2bin
+[2025-05-18 14:43:42] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/ic443_LIGHT_-_2021-12-05_-_TEC140-x75_STL-11000M_-_1bin
+[2025-05-18 14:43:42] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/ic443_LIGHT_-_2021-12-07_-_TEC140-x75_STL-11000M_-_1bin
+[2025-05-18 14:43:43] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M45_LIGHT_-_2021-12-05_-_TEC140-x75_STL-11000M_-_1bin
+[2025-05-18 14:43:43] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/c2021-a1-03_LIGHT_-_2021-12-05_-_TEC140-x75_STL-11000M_-_2bin
+[2025-05-18 14:43:43] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/ic443_LIGHT_-_2021-12-05_-_TEC140-x75_STL-11000M_-_1bin
+[2025-05-18 14:43:43] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/ic443_LIGHT_-_2021-12-07_-_TEC140-x75_STL-11000M_-_1bin
+[2025-05-18 14:53:56] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M45_LIGHT_-_2021-12-05_-_TEC140-x75_STL-11000M_-_1bin
+[2025-05-18 14:53:56] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/ic443_LIGHT_-_2021-12-05_-_TEC140-x75_STL-11000M_-_1bin
+[2025-05-18 14:53:56] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/ic443_LIGHT_-_2021-12-07_-_TEC140-x75_STL-11000M_-_1bin
+[2025-05-18 14:53:56] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/M45_LIGHT_-_2021-12-05_-_TEC140-x75_STL-11000M_-_1bin
+[2025-05-18 14:53:57] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/ic443_LIGHT_-_2021-12-05_-_TEC140-x75_STL-11000M_-_1bin
+[2025-05-18 14:53:57] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/ic443_LIGHT_-_2021-12-07_-_TEC140-x75_STL-11000M_-_1bin
+[2025-05-18 14:54:19] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/c2021-a1-03_LIGHT_-_2021-12-05_-_TEC140-x75_STL-11000M_-_2bin
+[2025-05-18 14:54:19] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/c2021-a1-03_LIGHT_-_2021-12-05_-_TEC140-x75_STL-11000M_-_2bin
+[2025-05-18 14:55:43] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/KELT-1b_LIGHT_-_2024-10-04_-_RiLA600_ASI6200MMPro_-_3bin
+[2025-05-18 14:56:02] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/KELT-1b_LIGHT_-_2024-11-23_-_RiLA600_ASI6200MMPro_-_3bin
+[2025-05-18 14:56:03] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/KELT-1b_LIGHT_-_2024-11-23_-_RiLA600_ASI6200MMPro_-_3bin/Bad_fits
+[2025-05-18 14:56:05] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/KELT-1b_LIGHT_-_2024-10-04_-_RiLA600_ASI6200MMPro_-_3bin
+[2025-05-18 14:56:05] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/KELT-1b_LIGHT_-_2024-10-04_-_RiLA600_ASI6200MMPro_-_3bin/Bad_fits
+[2025-05-18 14:56:08] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/KELT-1b_LIGHT_-_2024-11-23_-_RiLA600_ASI6200MMPro_-_3bin
+[2025-05-18 14:56:08] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/KELT-1b_LIGHT_-_2024-11-23_-_RiLA600_ASI6200MMPro_-_3bin/Bad_fits
+[2025-05-18 14:56:36] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-92b_LIGHT_-_2025-04-08_-_RiLA600_ASI6200MMPro_-_3bin
+[2025-05-18 14:56:38] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-92b_LIGHT_-_2025-04-08_-_RiLA600_ASI6200MMPro_-_3bin/Bad_fits
+[2025-05-18 14:56:39] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-92b_LIGHT_-_2025-04-08_-_RiLA600_ASI6200MMPro_-_3bin
+[2025-05-18 14:56:39] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-92b_LIGHT_-_2025-04-08_-_RiLA600_ASI6200MMPro_-_3bin/Bad_fits
+[2025-05-18 14:57:12] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/XO-4b_LIGHT_-_2025-02-20_-_RiLA600_ASI6200MMPro_-_3bin
+[2025-05-18 14:57:12] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/XO-4b_LIGHT_-_2025-02-20_-_RiLA600_ASI6200MMPro_-_3bin/Bad_fits
+[2025-05-18 14:57:16] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/XO-4b_LIGHT_-_2025-02-20_-_RiLA600_ASI6200MMPro_-_3bin
+[2025-05-18 14:57:16] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/XO-4b_LIGHT_-_2025-02-20_-_RiLA600_ASI6200MMPro_-_3bin/Bad_fits
+[2025-05-18 14:57:21] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-92b_LIGHT_-_2025-04-08_-_RiLA600_ASI6200MMPro_-_3bin
+[2025-05-18 14:57:21] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/WASP-92b_LIGHT_-_2025-04-08_-_RiLA600_ASI6200MMPro_-_3bin
+[2025-05-18 14:58:11] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/TZ-AUR_LIGHT_-_2024-12-08_-_RiLA600_ASI6200MMPro_-_3bin
+[2025-05-18 14:58:12] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/TZ-AUR_LIGHT_-_2024-12-08_-_RiLA600_ASI6200MMPro_-_3bin
+[2025-05-18 14:58:12] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/TZ-AUR_LIGHT_-_2024-12-08_-_RiLA600_ASI6200MMPro_-_3bin/Bad_fits
+[2025-05-18 14:58:54] Fits headers are updated in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/FO-AQR_LIGHT_-_2024-12-08_-_RiLA600_ASI6200MMPro_-_3bin
+[2025-05-18 14:58:54] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/FO-AQR_LIGHT_-_2024-12-08_-_RiLA600_ASI6200MMPro_-_3bin
+[2025-05-18 14:58:54] All fits files are moved in /mnt/Rdata/ASTRO_data/A1_CCD_new_files/FO-AQR_LIGHT_-_2024-12-08_-_RiLA600_ASI6200MMPro_-_3bin/Bad_fits
+[2025-05-19 14:23:36] Fits headers are updated in R:\A1_CCD_new_files\FlatWizard_FLAT_-_2025-04-06_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:23:49] Fits headers are updated in R:\A1_CCD_new_files\HAT-P-12b_LIGHT_-_2025-04-15_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:23:56] Fits headers are updated in R:\A1_CCD_new_files\HAT-P-12b_LIGHT_-_2025-04-16_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:24:01] Fits headers are updated in R:\A1_CCD_new_files\HAT-P-36b_LIGHT_-_2025-03-08_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:24:08] Fits headers are updated in R:\A1_CCD_new_files\HAT-P-36b_LIGHT_-_2025-03-08_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-19 14:24:18] Fits headers are updated in R:\A1_CCD_new_files\HAT-P-36b_LIGHT_-_2025-03-09_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:24:39] Fits headers are updated in R:\A1_CCD_new_files\HAT-P-36b_LIGHT_-_2025-03-09_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-19 14:24:49] Fits headers are updated in R:\A1_CCD_new_files\HAT-P-36b_LIGHT_-_2025-04-01_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:24:54] Fits headers are updated in R:\A1_CCD_new_files\HAT-P-36b_LIGHT_-_2025-04-02_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:25:02] Fits headers are updated in R:\A1_CCD_new_files\HAT-P-3b_LIGHT_-_2025-04-06_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:25:04] Fits headers are updated in R:\A1_CCD_new_files\IC 434 Panel 1_LIGHT_-_2025-02-24_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:25:04] Fits headers are updated in R:\A1_CCD_new_files\IC 434 Panel 1_LIGHT_-_2025-02-26_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:25:06] Fits headers are updated in R:\A1_CCD_new_files\IC 434 Panel 2_LIGHT_-_2025-02-24_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:25:07] Fits headers are updated in R:\A1_CCD_new_files\IC 434 Panel 2_LIGHT_-_2025-02-26_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:25:09] Fits headers are updated in R:\A1_CCD_new_files\IC 443 Panel 4_LIGHT_-_2025-02-28_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:25:09] Fits headers are updated in R:\A1_CCD_new_files\IC 443 Panel 4_LIGHT_-_2025-03-01_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:25:44] Fits headers are updated in R:\A1_CCD_new_files\KELT-3b_LIGHT_-_2025-02-23_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:26:39] Fits headers are updated in R:\A1_CCD_new_files\KELT-3b_LIGHT_-_2025-02-23_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-19 14:26:51] Fits headers are updated in R:\A1_CCD_new_files\KELT-3b_LIGHT_-_2025-02-24_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:27:34] Fits headers are updated in R:\A1_CCD_new_files\KELT-3b_LIGHT_-_2025-02-24_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-19 14:27:53] Fits headers are updated in R:\A1_CCD_new_files\KELT-3b_LIGHT_-_2025-03-22_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:28:07] Fits headers are updated in R:\A1_CCD_new_files\KELT-3b_LIGHT_-_2025-03-23_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:28:19] Fits headers are updated in R:\A1_CCD_new_files\KPS-1b_LIGHT_-_2025-02-28_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:28:33] Fits headers are updated in R:\A1_CCD_new_files\KPS-1b_LIGHT_-_2025-02-28_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-19 14:28:36] Fits headers are updated in R:\A1_CCD_new_files\KPS-1b_LIGHT_-_2025-03-01_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:28:40] Fits headers are updated in R:\A1_CCD_new_files\KPS-1b_LIGHT_-_2025-03-01_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-19 14:28:42] Fits headers are updated in R:\A1_CCD_new_files\Leo-triple Panel 1_LIGHT_-_2025-03-08_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:28:45] Fits headers are updated in R:\A1_CCD_new_files\Leo-triple Panel 1_LIGHT_-_2025-03-09_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:28:48] Fits headers are updated in R:\A1_CCD_new_files\Leo-triple Panel 1_LIGHT_-_2025-03-22_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:28:52] Fits headers are updated in R:\A1_CCD_new_files\Leo-triple Panel 2_LIGHT_-_2025-03-08_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:28:56] Fits headers are updated in R:\A1_CCD_new_files\Leo-triple Panel 2_LIGHT_-_2025-03-22_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:28:58] Fits headers are updated in R:\A1_CCD_new_files\M 101_LIGHT_-_2025-03-09_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:29:00] Fits headers are updated in R:\A1_CCD_new_files\M 101_LIGHT_-_2025-03-23_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:29:08] Fits headers are updated in R:\A1_CCD_new_files\M 13_LIGHT_-_2025-04-22_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:29:16] Fits headers are updated in R:\A1_CCD_new_files\M 13_LIGHT_-_2025-04-25_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:29:24] Fits headers are updated in R:\A1_CCD_new_files\M 13_LIGHT_-_2025-04-26_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:29:31] Fits headers are updated in R:\A1_CCD_new_files\M 3_LIGHT_-_2025-04-25_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:29:39] Fits headers are updated in R:\A1_CCD_new_files\M 3_LIGHT_-_2025-04-26_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:29:46] Fits headers are updated in R:\A1_CCD_new_files\M 3_LIGHT_-_2025-04-28_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:29:49] Fits headers are updated in R:\A1_CCD_new_files\M 42 Panel 1_LIGHT_-_2025-03-08_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:29:52] Fits headers are updated in R:\A1_CCD_new_files\M 42 Panel 2_LIGHT_-_2025-03-08_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:29:55] Fits headers are updated in R:\A1_CCD_new_files\M 42 Panel 3_LIGHT_-_2025-03-08_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:29:56] Fits headers are updated in R:\A1_CCD_new_files\M 44 Panel 1_LIGHT_-_2025-02-26_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:29:58] Fits headers are updated in R:\A1_CCD_new_files\M 44 Panel 2_LIGHT_-_2025-02-27_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:30:01] Fits headers are updated in R:\A1_CCD_new_files\M 51_LIGHT_-_2025-03-09_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:30:04] Fits headers are updated in R:\A1_CCD_new_files\M 51_LIGHT_-_2025-03-22_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:30:05] Fits headers are updated in R:\A1_CCD_new_files\M 66 Panel 1_LIGHT_-_2025-02-27_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:30:06] Fits headers are updated in R:\A1_CCD_new_files\M 66 Panel 2_LIGHT_-_2025-02-27_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:30:13] Fits headers are updated in R:\A1_CCD_new_files\NGC 1444_LIGHT_-_2025-03-09_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:30:16] Fits headers are updated in R:\A1_CCD_new_files\NGC 1496_LIGHT_-_2025-03-09_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:30:17] Fits headers are updated in R:\A1_CCD_new_files\NGC 1496_LIGHT_-_2025-03-10_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:30:29] Fits headers are updated in R:\A1_CCD_new_files\NGC 2165_LIGHT_-_2025-02-24_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:30:37] Fits headers are updated in R:\A1_CCD_new_files\NGC 2165_LIGHT_-_2025-03-09_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:30:45] Fits headers are updated in R:\A1_CCD_new_files\NGC 2281_LIGHT_-_2025-02-24_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:30:57] Fits headers are updated in R:\A1_CCD_new_files\NGC 2281_LIGHT_-_2025-03-08_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:31:10] Fits headers are updated in R:\A1_CCD_new_files\NGC 2281_LIGHT_-_2025-03-08_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-19 14:31:19] Fits headers are updated in R:\A1_CCD_new_files\NGC 2682_LIGHT_-_2025-04-29_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:31:34] Fits headers are updated in R:\A1_CCD_new_files\Qatar-8b_LIGHT_-_2025-02-26_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:31:52] Fits headers are updated in R:\A1_CCD_new_files\Qatar-8b_LIGHT_-_2025-02-26_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-19 14:32:09] Fits headers are updated in R:\A1_CCD_new_files\Qatar-8b_LIGHT_-_2025-02-27_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:32:30] Fits headers are updated in R:\A1_CCD_new_files\Qatar-8b_LIGHT_-_2025-02-27_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-19 14:32:41] Fits headers are updated in R:\A1_CCD_new_files\TOI-1811b_LIGHT_-_2025-03-25_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:33:01] Fits headers are updated in R:\A1_CCD_new_files\TOI-1811b_LIGHT_-_2025-03-26_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:33:09] Fits headers are updated in R:\A1_CCD_new_files\TOI-1811b_LIGHT_-_2025-04-20_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:33:22] Fits headers are updated in R:\A1_CCD_new_files\TOI-1811b_LIGHT_-_2025-04-21_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:33:23] Fits headers are updated in R:\A1_CCD_new_files\TOI-2583Ab_LIGHT_-_2025-04-23_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:33:42] Fits headers are updated in R:\A1_CCD_new_files\TOI-2583Ab_LIGHT_-_2025-04-24_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:33:50] Fits headers are updated in R:\A1_CCD_new_files\TOI-3976Ab_LIGHT_-_2025-04-29_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:34:05] Fits headers are updated in R:\A1_CCD_new_files\TOI-3976Ab_LIGHT_-_2025-04-30_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:34:20] Fits headers are updated in R:\A1_CCD_new_files\TrES-5b_LIGHT_-_2025-04-23_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:34:24] Fits headers are updated in R:\A1_CCD_new_files\TrES-5b_LIGHT_-_2025-04-25_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:34:40] Fits headers are updated in R:\A1_CCD_new_files\TrES-5b_LIGHT_-_2025-04-26_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:34:44] Fits headers are updated in R:\A1_CCD_new_files\TrES-5b_LIGHT_-_2025-04-28_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:34:54] Fits headers are updated in R:\A1_CCD_new_files\TrES-5b_LIGHT_-_2025-04-29_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:34:56] Fits headers are updated in R:\A1_CCD_new_files\WASP-103b_LIGHT_-_2025-05-06_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:35:21] Fits headers are updated in R:\A1_CCD_new_files\WASP-103b_LIGHT_-_2025-05-07_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:35:41] Fits headers are updated in R:\A1_CCD_new_files\WASP-103b_LIGHT_-_2025-05-08_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:35:42] Fits headers are updated in R:\A1_CCD_new_files\WASP-38b_LIGHT_-_2025-04-26_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:36:30] Fits headers are updated in R:\A1_CCD_new_files\WASP-38b_LIGHT_-_2025-04-27_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:36:32] Fits headers are updated in R:\A1_CCD_new_files\XO-3b_LIGHT_-_2025-01-10_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:36:32] All fits files are moved in R:\A1_CCD_new_files\FlatWizard_FLAT_-_2025-04-06_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:36:37] All fits files are moved in R:\A1_CCD_new_files\HAT-P-12b_LIGHT_-_2025-04-15_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:36:39] All fits files are moved in R:\A1_CCD_new_files\HAT-P-12b_LIGHT_-_2025-04-16_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:36:39] All fits files are moved in R:\A1_CCD_new_files\HAT-P-13b_LIGHT_-_2025-02-22_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-19 14:36:41] All fits files are moved in R:\A1_CCD_new_files\HAT-P-36b_LIGHT_-_2025-03-08_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:36:43] All fits files are moved in R:\A1_CCD_new_files\HAT-P-36b_LIGHT_-_2025-03-08_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-19 14:36:46] All fits files are moved in R:\A1_CCD_new_files\HAT-P-36b_LIGHT_-_2025-03-09_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:36:52] All fits files are moved in R:\A1_CCD_new_files\HAT-P-36b_LIGHT_-_2025-03-09_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-19 14:36:56] All fits files are moved in R:\A1_CCD_new_files\HAT-P-36b_LIGHT_-_2025-04-01_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:36:57] All fits files are moved in R:\A1_CCD_new_files\HAT-P-36b_LIGHT_-_2025-04-02_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:37:00] All fits files are moved in R:\A1_CCD_new_files\HAT-P-3b_LIGHT_-_2025-04-06_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:37:01] All fits files are moved in R:\A1_CCD_new_files\IC 434 Panel 1_LIGHT_-_2025-02-24_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:37:01] All fits files are moved in R:\A1_CCD_new_files\IC 434 Panel 1_LIGHT_-_2025-02-26_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:37:02] All fits files are moved in R:\A1_CCD_new_files\IC 434 Panel 2_LIGHT_-_2025-02-24_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:37:02] All fits files are moved in R:\A1_CCD_new_files\IC 434 Panel 2_LIGHT_-_2025-02-26_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:37:02] All fits files are moved in R:\A1_CCD_new_files\IC 443 Panel 1_LIGHT_-_2025-02-28_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:37:02] All fits files are moved in R:\A1_CCD_new_files\IC 443 Panel 2_LIGHT_-_2025-02-28_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:37:03] All fits files are moved in R:\A1_CCD_new_files\IC 443 Panel 3_LIGHT_-_2025-02-28_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:37:03] All fits files are moved in R:\A1_CCD_new_files\IC 443 Panel 4_LIGHT_-_2025-02-28_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:37:03] All fits files are moved in R:\A1_CCD_new_files\IC 443 Panel 4_LIGHT_-_2025-03-01_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:37:11] All fits files are moved in R:\A1_CCD_new_files\KELT-3b_LIGHT_-_2025-02-23_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:37:24] All fits files are moved in R:\A1_CCD_new_files\KELT-3b_LIGHT_-_2025-02-23_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-19 14:37:28] All fits files are moved in R:\A1_CCD_new_files\KELT-3b_LIGHT_-_2025-02-24_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:37:37] All fits files are moved in R:\A1_CCD_new_files\KELT-3b_LIGHT_-_2025-02-24_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-19 14:37:42] All fits files are moved in R:\A1_CCD_new_files\KELT-3b_LIGHT_-_2025-03-22_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:37:45] All fits files are moved in R:\A1_CCD_new_files\KELT-3b_LIGHT_-_2025-03-23_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:37:48] All fits files are moved in R:\A1_CCD_new_files\KPS-1b_LIGHT_-_2025-02-28_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:37:52] All fits files are moved in R:\A1_CCD_new_files\KPS-1b_LIGHT_-_2025-02-28_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-19 14:37:53] All fits files are moved in R:\A1_CCD_new_files\KPS-1b_LIGHT_-_2025-03-01_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:37:54] All fits files are moved in R:\A1_CCD_new_files\KPS-1b_LIGHT_-_2025-03-01_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-19 14:37:55] All fits files are moved in R:\A1_CCD_new_files\Leo-triple Panel 1_LIGHT_-_2025-03-08_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:37:56] All fits files are moved in R:\A1_CCD_new_files\Leo-triple Panel 1_LIGHT_-_2025-03-09_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:37:56] All fits files are moved in R:\A1_CCD_new_files\Leo-triple Panel 1_LIGHT_-_2025-03-22_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:37:58] All fits files are moved in R:\A1_CCD_new_files\Leo-triple Panel 2_LIGHT_-_2025-03-08_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:37:59] All fits files are moved in R:\A1_CCD_new_files\Leo-triple Panel 2_LIGHT_-_2025-03-22_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:38:00] All fits files are moved in R:\A1_CCD_new_files\M 101_LIGHT_-_2025-03-09_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:38:01] All fits files are moved in R:\A1_CCD_new_files\M 101_LIGHT_-_2025-03-23_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:38:04] All fits files are moved in R:\A1_CCD_new_files\M 13_LIGHT_-_2025-04-25_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:38:06] All fits files are moved in R:\A1_CCD_new_files\M 13_LIGHT_-_2025-04-26_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:38:08] All fits files are moved in R:\A1_CCD_new_files\M 3_LIGHT_-_2025-04-25_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:38:10] All fits files are moved in R:\A1_CCD_new_files\M 3_LIGHT_-_2025-04-26_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:38:13] All fits files are moved in R:\A1_CCD_new_files\M 42 Panel 1_LIGHT_-_2025-03-08_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:38:13] All fits files are moved in R:\A1_CCD_new_files\M 42 Panel 2_LIGHT_-_2025-03-08_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:38:14] All fits files are moved in R:\A1_CCD_new_files\M 42 Panel 3_LIGHT_-_2025-03-08_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:38:15] All fits files are moved in R:\A1_CCD_new_files\M 44 Panel 1_LIGHT_-_2025-02-26_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:38:15] All fits files are moved in R:\A1_CCD_new_files\M 44 Panel 2_LIGHT_-_2025-02-27_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:38:16] All fits files are moved in R:\A1_CCD_new_files\M 51_LIGHT_-_2025-03-09_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:38:17] All fits files are moved in R:\A1_CCD_new_files\M 51_LIGHT_-_2025-03-22_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:38:17] All fits files are moved in R:\A1_CCD_new_files\M 66 Panel 1_LIGHT_-_2025-02-27_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:38:17] All fits files are moved in R:\A1_CCD_new_files\M 66 Panel 2_LIGHT_-_2025-02-27_-_OON300_ZWO ASI2600MC Duo_-_1x1bin
+[2025-05-19 14:38:19] All fits files are moved in R:\A1_CCD_new_files\NGC 1444_LIGHT_-_2025-03-09_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:38:23] All fits files are moved in R:\A1_CCD_new_files\NGC 2165_LIGHT_-_2025-02-24_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:38:25] All fits files are moved in R:\A1_CCD_new_files\NGC 2165_LIGHT_-_2025-03-09_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:38:27] All fits files are moved in R:\A1_CCD_new_files\NGC 2281_LIGHT_-_2025-02-24_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:38:29] All fits files are moved in R:\A1_CCD_new_files\NGC 2281_LIGHT_-_2025-03-08_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:38:33] All fits files are moved in R:\A1_CCD_new_files\NGC 2281_LIGHT_-_2025-03-08_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-19 14:38:34] All fits files are moved in R:\A1_CCD_new_files\NGC 2682_LIGHT_-_2025-04-29_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:38:38] All fits files are moved in R:\A1_CCD_new_files\Qatar-8b_LIGHT_-_2025-02-26_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:38:42] All fits files are moved in R:\A1_CCD_new_files\Qatar-8b_LIGHT_-_2025-02-26_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-19 14:38:46] All fits files are moved in R:\A1_CCD_new_files\Qatar-8b_LIGHT_-_2025-02-27_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:38:51] All fits files are moved in R:\A1_CCD_new_files\Qatar-8b_LIGHT_-_2025-02-27_-_RiLA600_ZWO ASI6200MM Pro_-_-
+[2025-05-19 14:38:54] All fits files are moved in R:\A1_CCD_new_files\TOI-1811b_LIGHT_-_2025-03-25_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:38:59] All fits files are moved in R:\A1_CCD_new_files\TOI-1811b_LIGHT_-_2025-03-26_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:39:01] All fits files are moved in R:\A1_CCD_new_files\TOI-1811b_LIGHT_-_2025-04-20_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:39:04] All fits files are moved in R:\A1_CCD_new_files\TOI-1811b_LIGHT_-_2025-04-21_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:39:04] All fits files are moved in R:\A1_CCD_new_files\TOI-2583Ab_LIGHT_-_2025-04-23_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:39:09] All fits files are moved in R:\A1_CCD_new_files\TOI-2583Ab_LIGHT_-_2025-04-24_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:39:10] All fits files are moved in R:\A1_CCD_new_files\TOI-3976Ab_LIGHT_-_2025-04-29_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:39:14] All fits files are moved in R:\A1_CCD_new_files\TOI-3976Ab_LIGHT_-_2025-04-30_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:39:18] All fits files are moved in R:\A1_CCD_new_files\TrES-5b_LIGHT_-_2025-04-23_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:39:23] All fits files are moved in R:\A1_CCD_new_files\TrES-5b_LIGHT_-_2025-04-26_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:39:24] All fits files are moved in R:\A1_CCD_new_files\TrES-5b_LIGHT_-_2025-04-28_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:39:27] All fits files are moved in R:\A1_CCD_new_files\TrES-5b_LIGHT_-_2025-04-29_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:39:33] All fits files are moved in R:\A1_CCD_new_files\WASP-103b_LIGHT_-_2025-05-07_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:39:38] All fits files are moved in R:\A1_CCD_new_files\WASP-103b_LIGHT_-_2025-05-08_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:39:39] All fits files are moved in R:\A1_CCD_new_files\WASP-38b_LIGHT_-_2025-04-26_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:39:50] All fits files are moved in R:\A1_CCD_new_files\WASP-38b_LIGHT_-_2025-04-27_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin
+[2025-05-19 14:39:51] All fits files are moved in R:\A1_CCD_new_files\XO-3b_LIGHT_-_2025-01-10_-_GSON300_SBIG STF-8300 CCD Camera_-_1x1bin

@@ -1,3 +1,5 @@
+
+
 # -*- coding: utf-8 -*-
 """
 Created on Thu Nov 22 01:00:19 2018
@@ -34,25 +36,25 @@ if not os.path.exists('{0}'.format(log_dir)):
 # read all files in base directory for processing
 #%%
 #######################################################
-BASEDIR = Path("/mnt/Rdata/OBS_data") 
-PROJECDIR = Path("/mnt/Rdata/OBS_data/2024-EXO")
+BASEDIR = Path("/mnt/Rdata/ASTRO_data") 
+PROJECDIR = Path("/mnt/Rdata/ASTRO_data/2024-EXO")
 TODODIR = PROJECDIR / "_-_-_2024-05_-_GSON300_STF-8300M_-_1bin"
 TODODIR = PROJECDIR / "_-_-_2024-06_-_GSON300_STF-8300M_-_1bin"
 
-PROJECDIR = Path("/mnt/Rdata/OBS_data/2022-Asteroid")
+PROJECDIR = Path("/mnt/Rdata/ASTRO_data/2022-Asteroid")
 TODODIR = PROJECDIR / "GSON300_STF-8300M_-_1bin"
 TODODIR = PROJECDIR / "RiLA600_STX-16803_-_1bin"
 TODODIR = PROJECDIR / "RiLA600_STX-16803_-_2bin"
 
-PROJECDIR = Path("/mnt/Rdata/OBS_data/2023-Asteroid")
+PROJECDIR = Path("/mnt/Rdata/ASTRO_data/2023-Asteroid")
 TODODIR = PROJECDIR / "GSON300_STF-8300M_-_1bin"
 # TODODIR = PROJECDIR / "RiLA600_STX-16803_-_1bin"
 # TODODIR = PROJECDIR / "RiLA600_STX-16803_-_2bin"
 
-PROJECDIR = Path("/mnt/Rdata/OBS_data/2016-Variable")
+PROJECDIR = Path("/mnt/Rdata/ASTRO_data/2016-Variable")
 TODODIR = PROJECDIR / "-_-_-_2016-_-_RiLA600_STX-16803_-_2bin"
 
-# PROJECDIR = Path("/mnt/Rdata/OBS_data/2017-Variable")
+# PROJECDIR = Path("/mnt/Rdata/ASTRO_data/2017-Variable")
 # TODODIR = PROJECDIR / "-_-_-_2017-_-_RiLA600_STX-16803_-_2bin"
 
 DOINGDIRs = sorted(_Python_utilities.getFullnameListOfsubDirs(TODODIR))
@@ -89,11 +91,9 @@ for DOINGDIR in DOINGDIRs[:] :
     
     try :
         _astro_utilities.reduceLightFrame(DOINGDIR, MASTERDIR,
-                                        OWrite=False, 
                                         )
         
         _astro_utilities.makeNightskyflatReduceLightFrame(DOINGDIR, MASTERDIR,
-                                        OWrite=False,
                                         )
         _astro_utilities.solvingLightFrame(DOINGDIR,
                                         )

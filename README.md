@@ -1,1 +1,0 @@
-# GSGS_Photometry
